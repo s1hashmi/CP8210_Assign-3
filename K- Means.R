@@ -1,0 +1,5 @@
+RID <- c(1:6)
+D1 <- c(8, 5, 2, 2, 2, 8)
+D2 <- c(4, 4, 4, 6, 8, 6)
+df = c(RID, D1, D2)
+df = data.frame(RID, D1, D2)
